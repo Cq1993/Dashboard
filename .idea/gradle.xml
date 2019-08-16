@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT" />
+        </compositeConfiguration>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$USER_HOME$/zhongyuan/SaleHouse" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/zhongyuan/SaleHouse" />
+            <option value="$USER_HOME$/zhongyuan/SaleHouse/app" />
+            <option value="$USER_HOME$/zhongyuan/SaleHouse/framework2" />
+            <option value="$USER_HOME$/zhongyuan/SaleHouse/node_modules/lottie-react-native/lib/android" />
+            <option value="$USER_HOME$/zhongyuan/SaleHouse/node_modules/react-native-code-push/android/app" />
+            <option value="$USER_HOME$/zhongyuan/SaleHouse/rxgalleryfinal" />
+            <option value="$USER_HOME$/zhongyuan/SaleHouse/scancodelibrary" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
